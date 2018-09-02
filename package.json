@@ -1,0 +1,13 @@
+{
+  "name": "mapbox-test",
+  "version": "0.1.0",
+  "description": "Implement map feature using Mapbox",
+  "main": "index.js",
+  "repository": "git@github.com:ariebrainware/mapbox-test.git",
+  "author": "Arie Brainware <jtucke22@mail.ccsf.edu>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "mapbox-gl": "^0.48.0"
+  }
+}
